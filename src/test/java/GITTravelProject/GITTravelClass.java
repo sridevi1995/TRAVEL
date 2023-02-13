@@ -13,11 +13,21 @@ public class GITTravelClass {
 		System.out.println("AC Coach");
 
 	}
-	private void visitTemple() {
-		System.out.println("Temple");
-
+    private void tamilnadu() {
+    	System.out.println("Tamil");
 	}
-	private void visitMalls() {
+    private void kerala() {
+		System.out.println("Malayalam");
+
+    }
+    private void andhra() {
+	System.out.println("Telegu");
+	
+     }
+    private void visitTemple() {
+		System.out.println("Temple");
+     }
+	 private void visitMalls() {
 		System.out.println("Malls");
 		
 	}
@@ -26,3 +36,4 @@ public class GITTravelClass {
 
 	}
 }
+
