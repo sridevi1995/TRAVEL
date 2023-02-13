@@ -13,5 +13,16 @@ public class GITTravelClass {
 		System.out.println("AC Coach");
 
 	}
+	private void visitTemple() {
+		System.out.println("Temple");
 
+	}
+	private void visitMalls() {
+		System.out.println("Malls");
+		
+	}
+	private void visitBeach() {
+		System.out.println("beach");
+
+	}
 }
