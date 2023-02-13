@@ -13,5 +13,15 @@ public class GITTravelClass {
 		System.out.println("AC Coach");
 
 	}
+    private void tamilnadu() {
+    	System.out.println("Tamil");
+	}
+    private void kerala() {
+		System.out.println("Malayalam");
 
+	}
+   private void andhra() {
+	System.out.println("Telegu");
+
+}
 }
