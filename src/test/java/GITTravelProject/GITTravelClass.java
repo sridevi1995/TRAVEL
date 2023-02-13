@@ -19,9 +19,21 @@ public class GITTravelClass {
     private void kerala() {
 		System.out.println("Malayalam");
 
-	}
-   private void andhra() {
+    }
+    private void andhra() {
 	System.out.println("Telegu");
+	
+     }
+    private void visitTemple() {
+		System.out.println("Temple");
+     }
+	 private void visitMalls() {
+		System.out.println("Malls");
+		
+	}
+	private void visitBeach() {
+		System.out.println("beach");
 
+	}
 }
-}
+
